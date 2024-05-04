@@ -8,13 +8,13 @@
   }
 
   .image-container {
-    width: 300px; /* Adjust width as needed */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
   .image-container{
-    width: 450px; /* Make sure the image fills its container */
-    height: 310px; /* Make sure the image fills its container */
+    width: 450px;
+    height: 310px; 
     padding: 5px;
     margin: 5px;
     border: solid 5px black;
