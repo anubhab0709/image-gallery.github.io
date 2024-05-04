@@ -39,6 +39,14 @@
         width: 300px;
         height: 200px;
     }
-}
 
+    .form-control{
+        display: flex;
+        height: 40px;
+        width: 100px;
+        justify-content: right;
+        align-items: center;
+        margin-left: 10px;
+    }
+}
 
