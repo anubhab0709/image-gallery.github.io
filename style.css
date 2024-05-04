@@ -1,9 +1,9 @@
 .cricket{
     display: flex;
-    flex-wrap: wrap; /* Wrap items to the next line */
-    justify-content: center; /* Center items horizontally */
-    align-items: center; /* Center items vertically */
-    height: 100vh; /* Adjust height as needed */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     gap: 10px;   
   }
 
@@ -31,5 +31,14 @@
     margin-bottom: 200px;
 }
 
+@media screen and (max-width: 768px) {
+    .containerall {
+        gap: 10px;
+    }
+    .image-container{
+        width: 300px;
+        height: 200px;
+    }
+}
 
 
