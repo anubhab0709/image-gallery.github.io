@@ -31,7 +31,7 @@
     margin-bottom: 200px;
 }
 
-@media screen and (max-width: 968px) {
+@media screen and (max-width: 999px) {
     .containerall {
         gap: 10px;
     }
