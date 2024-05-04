@@ -1,0 +1,35 @@
+.cricket{
+    display: flex;
+    flex-wrap: wrap; /* Wrap items to the next line */
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    height: 100vh; /* Adjust height as needed */
+    gap: 10px;   
+  }
+
+  .image-container {
+    width: 300px; /* Adjust width as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+
+  .image-container{
+    width: 450px; /* Make sure the image fills its container */
+    height: 310px; /* Make sure the image fills its container */
+    padding: 5px;
+    margin: 5px;
+    border: solid 5px black;
+  }
+
+
+  .containerall{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 100px;
+    margin-bottom: 200px;
+}
+
+
+
